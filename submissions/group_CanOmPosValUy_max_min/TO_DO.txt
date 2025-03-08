@@ -1,0 +1,17 @@
+https://github.com/polkadot-js/api
+
+For session II
+ ⁃ Download the “cursor.ai” and make sure you have a “vscode” 
+ ⁃ Read these references: https://polkadot-blockchain-academy.github.io/pba-book/
+ ⁃ Introduction to Polkadot - https://polkadot-blockchain-academy.github.io/pba-book/polkadot/index.html 
+ ⁃ Introduction to Substrate - https://polkadot-blockchain-academy.github.io/pba-book/substrate/index.html
+
+(Forked and starred the repository)
+
+PLEASE FORK FIRST ON GITHUB PROFILE!!!
+https://github.com/paritytech/polkadot-sdk/fork
+ ⁃ Introduction to Rust - https://github.com/armlynobinguar/rust-basics-web3-cebu-polkadot
+
+then create new folder(name it) and inside that folder right click and press open git bash here
+
+type git clone https://github.com/(YOUR USERNAME)/polkadot-sdk/fork
